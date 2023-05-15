@@ -1,0 +1,20 @@
+Id_region;code_region;Nom_region_group;Region_nom_old;Nom_region
+R84;84;Province;Rh“ne-Alpes;Auvergne-Rh“ne-Alpes
+R32;32;Province;Picardie;Hauts-de-France
+R93;93;Province;Provence-Alpes-C“te d'Azur;Provence-Alpes-C“te d'Azur
+R44;44;Province;Champagne-Ardenne;Grand Est
+R76;76;Province;Midi-Pyr‚n‚es;Occitanie
+R28;28;Province;Basse-Normandie;Normandie
+R75;75;Province;Poitou-Charentes;Nouvelle-Aquitaine
+R24;24;Province;Centre-Val de Loire;Centre-Val de Loire
+R27;27;Province;Bourgogne;Bourgogne-Franche-Comt‚
+R53;53;Province;Bretagne;Bretagne
+R52;52;Province;Pays de la Loire;Pays de la Loire
+R11;11;Ile-de-France;Ile-de-France;Ile-de-France
+R01;01;DROM-COM;Guadeloupe;Guadeloupe
+R02;02;DROM-COM;Martinique;Martinique
+R03;03;DROM-COM;Guyane;Guyane
+R04;04;DROM-COM;La R‚union;La R‚union
+R00;00;DROM-COM;Collectivit‚s d'outre-mer;Collectivit‚s d'outre-mer
+R06;06;DROM-COM;Mayotte;Mayotte
+R94;94;Province;Corse;Corse
